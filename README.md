@@ -34,7 +34,7 @@ The final application is packaged as a **Docker image** and pushed to **Docker H
 
 ---
 
-## 🛠️ Build Instructions (for Elsbieta 😊)
+## 🛠️ Build Instructions 
 
 ### 1. Install Required Tools
 
